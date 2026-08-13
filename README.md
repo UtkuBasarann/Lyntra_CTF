@@ -2,9 +2,9 @@
 Official pre-configured vulnerable virtual machine (.ova) for Lyntra Cyber Academy hands-on CTF scenarios and security labs.
 
 [![Download VM](https://img.shields.io/badge/Download-LyntraCTF__Lab.ova-blue?style=for-the-badge&logo=virtualbox)](https://lab.lyntracyberacademy.com/downloads/LyntraCTF_Lab.ova)
-[![Format](https://img.shields.io/badge/Format-.OVA-orange?style=for-the-badge)](https://lab.lyntracyberacademy.com/downloads/LyntraCTF_Lab.ova)
-[![Size](https://img.shields.io/badge/Size-2.9%20GB-brightgreen?style=for-the-badge)](https://lab.lyntracyberacademy.com/downloads/LyntraCTF_Lab.ova)
-[![Platform](https://img.shields.io/badge/Virtualization-VirtualBox%20%7C%20VMware-purple?style=for-the-badge)](https://lab.lyntracyberacademy.com/downloads/LyntraCTF_Lab.ova)
+[![Format](https://img.shields.io/badge/Format-.OVA-orange?style=for-the-badge)]
+[![Size](https://img.shields.io/badge/Size-2.9%20GB-brightgreen?style=for-the-badge)]
+[![Platform](https://img.shields.io/badge/Virtualization-VirtualBox%20%7C%20VMware-purple?style=for-the-badge)]
 
 This repository hosts the official setup documentation and direct download access for the **Lyntra Cyber Academy** vulnerable virtual machine. 
 
